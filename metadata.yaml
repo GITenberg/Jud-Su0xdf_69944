@@ -1,0 +1,29 @@
+_repo: Jud-Su0xdf_69944
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Feuchtwanger, Lion
+    birthdate: 1884
+    deathdate: 1958
+    gutenberg_agent_id: '50465'
+    url: http://www.gutenberg.org/2009/agents/50465
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Lion_Feuchtwanger
+    - https://de.wikipedia.org/wiki/Lion_Feuchtwanger
+description: ''
+gutenberg_issued: '2023-02-03'
+identifiers:
+  gutenberg: '69944'
+language: de
+pgterms:marc905: 20191116014229feuchtwang
+pgterms:marc906: '1925'
+pgterms:marc907: de
+production_note: Jens Sadowski and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aGermany :$bDrei Masken, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Jud Süß
+url: http://www.gutenberg.org/ebooks/69944
